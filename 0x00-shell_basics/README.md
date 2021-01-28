@@ -1,2 +1,3 @@
-0-current_working_directory - printworking directory
-1-listit		    - list Display the contents list of your current directory.
+0-current_working_directory - Prints working dir
+1-listit		    - Display contents of current dir
+2-bring_me_home		    - Go home
