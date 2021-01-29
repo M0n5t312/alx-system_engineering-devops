@@ -1,2 +1,2 @@
-#!bin/bash
+#!/bin/bash
 if ["$(stat %U hello)" == 'guillaume']; then chown betty hello;fi
