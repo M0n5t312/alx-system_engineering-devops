@@ -1,0 +1,2 @@
+#!/bin/bash
+less /etc/passwd > b.txt; less /etc/hosts >> b.txt; less b.txt;
